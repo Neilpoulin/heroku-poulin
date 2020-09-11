@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac7ea4fa-d87f-4795-b507-b38974a7c1f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env.template" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/pages/db.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/pages/db.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599849858133</updated>
-      <workItem from="1599849859252" duration="3266000" />
+      <workItem from="1599849859252" duration="3878000" />
     </task>
     <task id="LOCAL-00001" summary="update config values">
       <created>1599853108766</created>
@@ -51,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599853108766</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update db file">
+      <created>1599853561145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599853561145</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,17 +73,18 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="update config values" />
-    <option name="LAST_COMMIT_MESSAGE" value="update config values" />
+    <MESSAGE value="update db file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update db file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="105" key="CommitChangelistDialog2" timestamp="1599853108628">
+    <state x="414" y="105" key="CommitChangelistDialog2" timestamp="1599853561062">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="414" y="105" key="CommitChangelistDialog2/1680.-652.1920.1057/-2560.-121.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599853108628" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1599853110336">
+    <state x="414" y="105" key="CommitChangelistDialog2/1680.-652.1920.1057/-2560.-121.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599853561062" />
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1599853562554">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2/1680.-652.1920.1057/-2560.-121.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599853110336" />
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2/1680.-652.1920.1057/-2560.-121.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599853562554" />
     <state x="505" y="250" key="search.everywhere.popup" timestamp="1599853519209">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
