@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac7ea4fa-d87f-4795-b507-b38974a7c1f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env.template" afterDir="false" />
+    <list default="true" id="ac7ea4fa-d87f-4795-b507-b38974a7c1f6" name="Default Changelist" comment="update db file">
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hNS3Vw73lp6pyX8JwoueGxElt7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -47,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599849858133</updated>
-      <workItem from="1599849859252" duration="3878000" />
+      <workItem from="1599849859252" duration="5084000" />
     </task>
     <task id="LOCAL-00001" summary="update config values">
       <created>1599853108766</created>
@@ -77,10 +89,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="update db file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="105" key="CommitChangelistDialog2" timestamp="1599853561062">
+    <state x="414" y="105" key="CommitChangelistDialog2" timestamp="1599854324087">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="414" y="105" key="CommitChangelistDialog2/1680.-652.1920.1057/-2560.-121.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599853561062" />
+    <state x="414" y="105" key="CommitChangelistDialog2/1680.-652.1920.1057/-2560.-121.2560.1417/0.23.1680.1027@0.23.1680.1027" timestamp="1599854324087" />
     <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1599853562554">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
